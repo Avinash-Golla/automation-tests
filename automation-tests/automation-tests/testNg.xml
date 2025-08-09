@@ -1,0 +1,10 @@
+<suite name="Regression">
+    <test name="Test">
+        <classes>
+            <class name="com.yourorg.LoginTest">
+
+            </class>
+        </classes>
+
+    </test>
+</suite>
