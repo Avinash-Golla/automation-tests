@@ -2,7 +2,7 @@ package com.yourorg;
 
 import org.testng.annotations.Test;
 
-public class TC0004 {
+public class TC0005 {
 
     @Test
     public void SignIssue()
@@ -10,3 +10,4 @@ public class TC0004 {
         System.out.println("This is sign Issue");
     }
 }
+
